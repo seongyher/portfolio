@@ -1,0 +1,1 @@
+Use Twine to Export as index.html and overwrite the existing index.html file. Twine doesn't automatically save to this location so you have to export, and don't forget to set the filename to index.html!
